@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sebastianjast.github.io/results-summary-component-main/)
+- Solution URL: [Add solution URL here](https://sebastianjast.github.io/Results-summary-component-main)
 
 ## My process
 
