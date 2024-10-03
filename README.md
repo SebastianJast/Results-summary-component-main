@@ -58,4 +58,4 @@ These skills allowed me to create more advanced and flexible layouts in my proje
 ## Author
 
 - Website - [Sebastian](--)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SebastianJast)
