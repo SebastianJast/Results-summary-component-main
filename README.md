@@ -58,4 +58,4 @@ These skills allowed me to create more advanced and flexible layouts in my proje
 ## Author
 
 - Website - [Sebastian](https://sebastianjast.github.io/Responsive_CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SebastianJast)
+- Frontend Mentor - [@SebastianJast](https://www.frontendmentor.io/profile/SebastianJast)
